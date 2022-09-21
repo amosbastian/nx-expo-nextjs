@@ -102,6 +102,10 @@
         "jestConfig": "apps/app/jest.config.ts",
         "passWithNoTests": true
       }
+    },
+    "update": {
+      "executor": "@nrwl/expo:update",
+      "options": {}
     }
   },
   "tags": []

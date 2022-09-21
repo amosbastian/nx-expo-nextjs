@@ -1,3 +1,4 @@
+/* eslint-disable */
 module.exports = {
   displayName: 'app',
   resolver: '@nrwl/jest/plugins/resolver',

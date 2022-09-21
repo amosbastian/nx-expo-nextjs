@@ -53,3 +53,6 @@ web-build/
 
 
 apps/app-e2e/artifacts
+
+# Next.js
+.next
