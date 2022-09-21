@@ -33,7 +33,7 @@
     "react-native-svg-transformer": "1.0.0",
     "react-native-web": "0.18.9",
     "regenerator-runtime": "0.13.9",
-    "solito": "^0.0.30",
+    "solito": "^1.0.12",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
